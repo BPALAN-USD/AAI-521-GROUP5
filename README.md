@@ -1,2 +1,3 @@
 # AAI-521-GROUP5
-AAI521 - Group Project
+AAI521 - Group 5
+
