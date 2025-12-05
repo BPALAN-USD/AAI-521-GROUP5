@@ -1,0 +1,9 @@
+streamlit>=1.33.0
+ultralytics>=8.3.0
+split-folders>=0.5.1
+kaggle>=1.6.0
+pillow>=10.0.0
+# Pin NumPy to 1.x because some compiled dependencies (e.g. PyTorch) in this project
+# are not yet built against NumPy 2.x and will crash with NumPy 2.2.6
+numpy>=1.23,<2.0
+
