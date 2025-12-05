@@ -1,0 +1,9 @@
+conda create --name aai521_group5 python=3.11
+
+conda activate aai521_group5
+
+cd DriverDistractionAlgorithm
+
+pip install -r requirements.txt
+
+streamlit run streamlit_app.py
